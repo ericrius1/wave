@@ -24,8 +24,8 @@ window.addEventListener('resize', onWindowResize);
 
 // music.play();
 
-// var audio = loadAudio('audio/magicStick.mp3');
-// audio.play();
+var audio = loadAudio('audio/lights.mp3');
+audio.play();
 init();
 animate();
 
